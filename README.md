@@ -1,2 +1,12 @@
-# Cylinder-Block-Quality-Dashboard
-Power BI dashboard for cylinder block quality analysis using Bore Diameter, Roundness, Roughness and Cylindricity data.
+# Cylinder Block Quality Dashboard
+## Overview
+
+This project demonstrates a Power BI dashboard developed for Cylinder Block Quality Monitoring.
+
+The dashboard analyzes:
+- Bore Diameter
+- Roundness
+- Roughness
+- Cylindricity
+  
+using sample manufacturing data.
